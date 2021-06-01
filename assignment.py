@@ -15,7 +15,7 @@ def initData(xtrain, ytrain):
         y = np.concatenate((y, ytrain[ranIdx]), axis=0)
 
     shuffle = np.random.permutation(len(x))
-    xsort = x[shuffle]
+    xsort = x[shuffle]  
     ysort = y[shuffle]
     return (xsort, ysort)
 

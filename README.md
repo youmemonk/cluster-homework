@@ -1,3 +1,3 @@
-## Assignment : 2
+## Assignment
 
-This assignment was a part of a previous course.
+The assignment was a part of a course.
