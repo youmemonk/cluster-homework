@@ -1,3 +1,3 @@
-## Assignment : Sem 7
+## Assignment
 
-This assignment was a part of a course.
+The assignment was a part of a course.
